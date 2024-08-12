@@ -1,5 +1,4 @@
 # Árvore Binária 
-Árvore Binária
 <h1> Algoritmos e Estrutura de Dados </h1>
 <h2> Professor • Ricardo Petri </h2>
 <body>
